@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://netdev98.github.io/sitemap.xml
+Sitemap: https://netdev98.github.io/blob/sitemap.xml
